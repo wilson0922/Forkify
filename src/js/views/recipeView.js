@@ -3,7 +3,7 @@ import fracty from 'fracty'
 
 import 'regenerator-runtime/runtime'
 import icons from 'url:../../img/icons.svg'
-import { Fraction } from 'fractional'
+// import { Fraction } from 'fractional'
 
 class RecipeView extends View {
   _parentElement = document.querySelector('.recipe')
